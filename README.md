@@ -33,12 +33,14 @@ This repository covers the programming-related topics from the syllabus, includi
 Our lesson notebooks provide explanations, pseudocode, and Python implementations for each topic:
 
 1. [Variables, constants, and data types](./notebooks/01-variables-constants-datatypes.ipynb)
+2. [Selection and iteration](./notebooks/02-selection-iteration.ipynb)
 
 ## Exercises
 
 Each topic has a corresponding exercise notebook to practice the concepts learned:
 
 1. [Variables, constants, and data types](./exercises/01-variables-constants-datatypes-exercise.ipynb)
+2. [Selection and iteration](./exercises/02-selection-iteration-exercise.ipynb)
 
 ## Getting Started
 
