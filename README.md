@@ -22,24 +22,11 @@ All programming examples and exercises are in Python, as specified in the syllab
 
 This repository covers the programming-related topics from the syllabus, including but not limited to:
 
-- Variables, constants, and data types
+- [Variables, constants, and data types](./notebooks/01-variables-constants-datatypes.ipynb)
 - Selection and iteration
 - Arrays and file handling
 - Procedures and functions
 - Algorithm design and problem-solving
-
-## Repository Structure
-
-```
-olevel-cs-programming-2210/
-│
-├── notebooks/          # Jupyter notebooks for each topic
-├── exercises/          # Programming exercises
-├── projects/           # Larger programming projects
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
 
 ## Getting Started
 
