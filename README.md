@@ -22,11 +22,23 @@ All programming examples and exercises are in Python, as specified in the syllab
 
 This repository covers the programming-related topics from the syllabus, including but not limited to:
 
-- [Variables, constants, and data types](./notebooks/01-variables-constants-datatypes.ipynb)
+- Variables, constants, and data types
 - Selection and iteration
 - Arrays and file handling
 - Procedures and functions
 - Algorithm design and problem-solving
+
+## Lessons
+
+Our lesson notebooks provide explanations, pseudocode, and Python implementations for each topic:
+
+1. [Variables, constants, and data types](./notebooks/01-variables-constants-datatypes.ipynb)
+
+## Exercises
+
+Each topic has a corresponding exercise notebook to practice the concepts learned:
+
+1. [Variables, constants, and data types](./exercises/01-variables-constants-datatypes-exercise.ipynb)
 
 ## Getting Started
 
